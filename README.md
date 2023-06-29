@@ -14,4 +14,4 @@
 
 
 
-Создал код `m0ker1`
+Developer `m0ker1`
